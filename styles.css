@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 225, 186);
+}
+#tweets {
+list-style: none;
+color: blue;
+}
+
+.list-title {
+    text-align: center;
+}
+
